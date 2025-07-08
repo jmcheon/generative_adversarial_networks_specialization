@@ -14,10 +14,10 @@
 
 ```mermaid
 flowchart TD
-    B["fa:fa-twitter Generative Adversarial Networks (GANs) Specialization "]
-    B-->C(fa:fa-ban Build Basic Generative Adversarial Networks (GANs))
-    B-->D(fa:fa-spinner Build Better Generative Adversarial Networks (GANs))
-    B-->E(fa:fa-camera-retro Apply Generative Adversarial Networks (GANs))
+    B["fa:fa-twitter Generative Adversarial Networks (GANs) Specialization"]
+    B-->C(fa:fa-ban Build Basic Generative Adversarial Networks)
+    B-->D(fa:fa-spinner Build Better Generative Adversarial Networks)
+    B-->E(fa:fa-camera-retro Apply Generative Adversarial Networks)
 ```
 
 ### Course1 - Build Basic Generative Adversarial Networks (GANs)
